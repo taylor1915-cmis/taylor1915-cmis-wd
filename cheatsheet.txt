@@ -1,0 +1,12 @@
+Terminal Commands:
+1. ls <directory name> : List contents of a directory 
+2. cd : Go home
+3. cd <directory name> : Set that as your home
+4. cat <file name> : view the contents of the file
+5. gedit <file name> : edit the file
+6. gedit <file name> & : edit using gedit and still able to use terminal
+7. git commit -m "<message>" : makes a snapshot
+8. git push : to transport it to github.com
+9. pwd : present working directory/ shows you where you are.
+10. git clone <rest of the code> : cloning of the file
+11. git add : to finalize and save the new changes
