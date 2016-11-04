@@ -1,0 +1,12 @@
+Steps to create a file <file.txt>
+1. Enter class
+2. Turn on the computer and clone your repository in terminal.
+3. Make sure that your username is the directory (cd <username>)
+4. Type 'gedit <file.txt>' to create a text file with that name
+5. Edit the file at your leisure, however make sure to save whenever you change something so your work doesnt disappear.
+6. Once you're finished editing and you have saved, close the gedit page.
+7. Return to terminal and type "git add <file.txt>" to add the recently editted version of the file.
+8. Type "git commit -m <message>" with a small description of what your file contains.
+9. Type 'git push' to "push" the file onto the github website.
+10. Shutdown the computer.
+11. Leave with a smile on your face.
