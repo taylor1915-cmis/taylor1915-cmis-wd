@@ -9,4 +9,4 @@ Terminal Commands:
 8. git push : to transport it to github.com
 9. pwd : present working directory/ shows you where you are.
 10. git clone <rest of the code> : cloning of the file
-11. git add : to finalize and save the new changes
+11. git add <file name>: to finalize and save the new changes
