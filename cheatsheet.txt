@@ -10,3 +10,10 @@ Terminal Commands:
 9. pwd : present working directory/ shows you where you are.
 10. git clone <rest of the code> : cloning of the file
 11. git add <file name>: to finalize and save the new changes
+
+Sftp commands: (doesn't include closing tabs which is just '/' after the '<')
+<!doctype html> : is the portal to turn it into a website
+<html> : ITS JUST IMPORTANT for after the above command. 
+<head> : Is a child of html. 
+<title> : Is the child of head. This is where you write the title that you see on the tab.
+<meta charset="utf-8"/> : JUST IMPORTANT. Sibling of title.
