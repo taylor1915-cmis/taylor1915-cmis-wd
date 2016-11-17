@@ -3,26 +3,43 @@ html {
 	font-size: 25px;
 	font-family: arial; 
 	color: #00CED1; 
+	background-image: url("http://www.totallylayouts.com/backgrounds/floral/daisy_peace_and_grass.jpg");
+
 }
 
 body {
-	background-color: #E0FFFF;
 	border-color: #00FFFF;
+	opacity: 1.0;
 }
 
 h1 {
+	background-color: #FFFFFF;
 	border-color: #4682B4;
 	border-style: outset;
 	border-width:3px;
 	border: 2px solid #00CED1;
 	border-radius: 5px;
-	background-color: #6495ED;
-	color: #FFFFFF;
+	color: #40E0D0;
 	padding-top: 5px;
 	padding-right: 10px;
 	padding-bottom: 5px;
-	padding-left: 50px;
+	padding-left: 45px;
 }
 h2 {
-	padding-left: 300px;
+	padding-left: 50px;
+	color: #9370DB;
+	background-color: #F0F8FF;
+	width: 225px;
+	border-color:;
+	border-style: double;
+	border: 5px double #ADD8E6;
+}
+p {
+	background-color: #FFFAFA;
+	font-size: 15px;
+	color: #000000;
+	width: 285px;
+	border: 3px dotted #87CEEB;
+	font-family: arial;
+	
 }
