@@ -24,15 +24,25 @@ h1 {
 	padding-right: 10px;
 	padding-bottom: 5px;
 	padding-left: 45px;
+	letter-spacing:20px;
+	text-decoration:underline;
+	text-shadow:2px 2px #87CEFA;
+	
 }
 h2 {
-	padding-left: 50px;
+	padding-left: 500px;
 	color: #9370DB;
 	background-color: #F0F8FF;
 	width: 225px;
 	border-color:;
 	border-style: double;
 	border: 5px double #ADD8E6;
+	right: 5500px;
+	resize: horizontal;
+	overflow: auto;
+	letter-spacing: 50px;
+	
+	
 }
 p {
 	background-color: #FFFAFA;
@@ -41,5 +51,12 @@ p {
 	width: 285px;
 	border: 3px dotted #87CEEB;
 	font-family: arial;
+	word-spacing: 5px;
+	
+}
+footer {
+	background-color: #FFFFFF;
+	height: 30px;
+	width: 450px;
 	
 }
