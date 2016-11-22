@@ -34,15 +34,12 @@ h2 {
 	color: #9370DB;
 	background-color: #F0F8FF;
 	width: 225px;
-	border-color:;
 	border-style: double;
 	border: 5px double #ADD8E6;
 	right: 5500px;
 	resize: horizontal;
 	overflow: auto;
 	letter-spacing: 50px;
-	
-	
 }
 p {
 	background-color: #FFFAFA;
