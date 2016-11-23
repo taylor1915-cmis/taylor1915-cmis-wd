@@ -1,0 +1,42 @@
+header{
+	border-bottom: dashed 10px yellow;	
+	font-family:Impact, Charcoal, sans-serif;
+	background-color: red;
+	font-style:italic;
+	color:blue;
+}
+
+main {
+	font-family:sans-serif;
+	border-left: groove 10px orange;
+	border-right: groove 10px orange;
+}
+
+footer{
+	border-right: solid 10px blue;
+	border-left: solid 10px red;
+	border-top: dotted 1px black;
+	color:blue;
+}
+
+h1{
+	background-color:green;
+	border-bottom: dashed 5px yellow;
+	color:yellow;
+}
+
+h2{
+	background-color:purple;
+	color:yellow;
+	border-right:solid 20px yellow;
+}
+
+h3{
+	background-color:yellow;
+	color:purple;
+	border-top:dashed 2px purple;
+}
+
+p {
+	color:blue;
+}
