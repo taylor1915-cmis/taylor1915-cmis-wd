@@ -1,4 +1,22 @@
 html {
+/*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned. (background image and width)
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.*/
+
 	background-color: #F0F8FF;
 	font-size: 25px;
 	font-family: arial; 
@@ -33,7 +51,7 @@ h2 {
 	padding-left: 500px;
 	color: #9370DB;
 	background-color: #F0F8FF;
-	width: 225px;
+	width: 500px;
 	border-style: double;
 	border: 5px double #ADD8E6;
 	right: 5500px;
@@ -43,7 +61,7 @@ h2 {
 }
 p {
 	background-color: #FFFAFA;
-	font-size: 15px;
+	font-size: 25px;
 	color: #000000;
 	width: 285px;
 	border: 3px dotted #87CEEB;
