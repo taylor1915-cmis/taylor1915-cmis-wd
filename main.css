@@ -48,16 +48,13 @@ h1 {
 	
 }
 h2 {
-	padding-left: 500px;
 	color: #9370DB;
 	background-color: #F0F8FF;
-	width: 500px;
+	width: 1580px;
 	border-style: double;
 	border: 5px double #ADD8E6;
-	right: 5500px;
-	resize: horizontal;
-	overflow: auto;
-	letter-spacing: 50px;
+	text-align:center;
+	letter-spacing: 5px;
 }
 p {
 	background-color: #FFFAFA;
@@ -75,3 +72,17 @@ footer {
 	width: 450px;
 	
 }
+ol, ul {
+	background-color: white;
+	font-size: 20px;
+	border-style: double;
+	border-width:10px;
+}
+img {
+    display: block;
+    margin: left;
+    width: 40%;
+}
+
+	
+
