@@ -1,0 +1,18 @@
+html{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f3/c0/4a/f3c04a0a19ecb148b4295c489ba8b8f9.jpg");
+	color: white;
+}
+h1{
+	font-size: 50px;
+	letter-spacing: 40px;
+	text-shadow:5px 5px 3px #808080;
+	border-style: double;
+	border-color:white;
+	text-align:center;
+}
+h2 {
+	color: black;
+	font-family: arial;
+	font-size: 50px;
+
+
