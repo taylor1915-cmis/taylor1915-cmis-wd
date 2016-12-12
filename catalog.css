@@ -1,6 +1,18 @@
 html{
 	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f3/c0/4a/f3c04a0a19ecb148b4295c489ba8b8f9.jpg");
 	color: white;
+	 margin:25px;
+}
+main{
+	margin:100px;
+	border-left-style:double;
+	border-left-width: 30px;
+	border-left-color:white;
+	border-right-style:double;
+	border-right-width:30px;
+	border-right-color:white;
+	background-image: url("http://media.istockphoto.com/photos/white-marble-patterned-texture-background-picture-id512818574?k=6&m=512818574&s=170667a&w=0&h=AI3gBYUWtGcXlBYrqb9KBCrpxxroVSr1TIg9PGEgjkE=");
+	color:black;
 }
 h1{
 	font-size: 50px;
@@ -19,19 +31,21 @@ h2 {
 }
 h3 {
 	font-size: 50px;
+	text-align:center;
+	padding-top:50px;
+	margin:150px;
+	color: black;
+
 }
 h4 {
 	font-size: 25px;
+	text-align:center;
+	
 }
 h5 {
-	position: fixed;
-	bottom: 0;
-	right:0;
-	width:300px;
-	border:3px double white;
-	background-color: #F0FFFF
-	color: black;
-	font-size: 25px;
+	font-size:20px;
+	text-align:center;
+	text-decoration:line-through;
 }
 main p {
 	text-align: center;
@@ -40,5 +54,15 @@ main p {
 h6 {
 	text-align: center;
 	font-size: 25px;
-
-
+}
+h7 {
+	text-decoration:line-through;
+	text-align: center;
+}
+ul {
+	text-align:center;
+}
+h7, h8 {
+	font-size: 20px;
+	text-align:center;
+}
